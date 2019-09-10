@@ -1,2 +1,6 @@
-* Limipeza y homologación de datos de siniestros automovilísticos de 2013 a 2017 INEGI.
-* Carga a Base de Datos SQL
+# ETL
+
+Data cleaning and load of automotive casualties from 2013 and 2017. Data was extracted from INEGI
+
+## Technology
+Jupyter notebook and Python for data cleaning, SQL Workbench for data load
